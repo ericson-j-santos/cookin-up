@@ -9,7 +9,3 @@ export default {
 <template>
   <Banner />
 </template>
-
-<style scoped>
-
-</style>
